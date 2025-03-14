@@ -7,6 +7,7 @@ Ao iniciar o Programa, O Usuário pode escolher entre 3 níveis de dificuldade, 
 
 ## Créditos
 Código projetado por Tiago Santini(https://github.com/tiagosantini)
+
 Programa feito por Danilo Cenci (https://github.com/Davetheguy1)
 
 Agradecimentos à
